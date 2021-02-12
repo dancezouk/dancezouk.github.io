@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Zouk Dance | O mundo Zouk</title>
-    <link>http://examplesite.org/about/</link>
+    <link>https://dancezouk.github.io/about/</link>
     <description>Recent content in About Us on Zouk Dance | O mundo Zouk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>Copyright &amp;copy; - 2021 - [ZoukAthos](https://youtube.com/c/zoukathos)</copyright><atom:link href="http://examplesite.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; - 2021 - [ZoukAthos](https://youtube.com/c/zoukathos)</copyright><atom:link href="https://dancezouk.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
